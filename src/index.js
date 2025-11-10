@@ -8,7 +8,7 @@ import './css/styles.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-	<BrowserRouter>
+	<BrowserRouter basename="/Apple_Custom">
 		<App />
 	</BrowserRouter>
 );

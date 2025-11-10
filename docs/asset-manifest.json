@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Apple_Custom/static/css/main.7b67c159.css",
-    "main.js": "/Apple_Custom/static/js/main.954b34d5.js",
+    "main.js": "/Apple_Custom/static/js/main.11a03ef8.js",
     "static/media/mac-laptop.jpg": "/Apple_Custom/static/media/mac-laptop.5a41ed84ada3ff89bc7c.jpg",
     "static/media/new-ipad.jpg": "/Apple_Custom/static/media/new-ipad.89e5633372a6f0cfab6b.jpg",
     "static/media/iphone11-pro-bg.jpg": "/Apple_Custom/static/media/iphone11-pro-bg.bf8cd2105e053ac6974b.jpg",
@@ -29,10 +29,10 @@
     "static/media/today-at-apple.svg": "/Apple_Custom/static/media/today-at-apple.9ad26dba6da1cbf22393dcd0b6d4412d.svg",
     "static/media/get-support.svg": "/Apple_Custom/static/media/get-support.4ff5709b0edf42fe0825ef9ffa827e82.svg",
     "main.7b67c159.css.map": "/Apple_Custom/static/css/main.7b67c159.css.map",
-    "main.954b34d5.js.map": "/Apple_Custom/static/js/main.954b34d5.js.map"
+    "main.11a03ef8.js.map": "/Apple_Custom/static/js/main.11a03ef8.js.map"
   },
   "entrypoints": [
     "static/css/main.7b67c159.css",
-    "static/js/main.954b34d5.js"
+    "static/js/main.11a03ef8.js"
   ]
 }

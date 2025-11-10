@@ -205,6 +205,52 @@ img {
 	font-size: 26px;
 	padding: 10px 0;
 }
+
+.internal-page-wrapper {
+	margin-top: 70px;
+	padding: 40px 0;
+}
+
+.title-wraper.large {
+	font-size: 56px;
+	font-weight: 600;
+}
+
+.new-alert {
+	color: #bf4800;
+	font-size: 14px;
+	font-weight: 600;
+	text-transform: uppercase;
+	margin-bottom: 12px;
+}
+
+.starting-price {
+	font-size: 20px;
+	font-weight: 600;
+	margin-bottom: 8px;
+}
+
+.monthly-price {
+	font-size: 16px;
+	color: #6e6e73;
+	margin-bottom: 15px;
+}
+
+.product-holder {
+	margin: 80px 0;
+}
+
+.product-details {
+	font-size: 18px;
+	line-height: 1.6;
+	color: #515154;
+	padding: 10px 0;
+}
+
+.prodict-image img {
+	max-width: 100%;
+	height: auto;
+}
 /*Fifth Section*/
 .fifth-heghlight-wrapper .left-side-wrapper .left-side-container{
 	background-image:  url("../images/home/actors.jpg"); 

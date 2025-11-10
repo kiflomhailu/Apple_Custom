@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <linearGradient id="arcadeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#f97316" />
+    <stop offset="100%" stop-color="#ea580c" />
+  </linearGradient>
+  <rect width="600" height="400" fill="url(#arcadeGrad)" rx="32" />
+  <path d="M220 180h160c22 0 40 18 40 40s-18 40-40 40h-20v20c0 11-9 20-20 20s-20-9-20-20v-20h-40v20c0 11-9 20-20 20s-20-9-20-20v-20h-20c-22 0-40-18-40-40s18-40 40-40z" fill="#fff" opacity="0.85" />
+  <text x="50%" y="78%" fill="#fff" font-family="'SF Pro Display', Arial, sans-serif" font-size="44" font-weight="600" text-anchor="middle">
+    Apple Arcade
+  </text>
+</svg>

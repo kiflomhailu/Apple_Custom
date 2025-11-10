@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#111827" rx="32" />
+  <text x="50%" y="45%" fill="#f8fafc" font-family="'SF Pro Display', Arial, sans-serif" font-size="64" font-weight="600" text-anchor="middle">
+    TV+
+  </text>
+  <text x="50%" y="75%" fill="#cbd5f5" font-family="'SF Pro Display', Arial, sans-serif" font-size="42" font-weight="500" text-anchor="middle">
+    Apple TV+
+  </text>
+</svg>

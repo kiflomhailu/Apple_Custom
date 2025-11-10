@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "Id": "AppleMusic",
+      "Title": "Apple Music",
+      "Brief": "100 million songs. All ad‑free.",
+      "Description": "Discover new releases, get daily personalized mixes, and sing along with real‑time lyrics. Listen in Spatial Audio with Dolby Atmos on your favorite devices.",
+      "img": "https://www.apple.com/v/services/home/x/images/overview/tiles/tile_music__f3x1ayo6s92m_large.jpg"
+    },
+    {
+      "Id": "AppleArcade",
+      "Title": "Apple Arcade",
+      "Brief": "Play extraordinary games.",
+      "Description": "One subscription. No ads or in‑app purchases. Share with your family and play across iPhone, iPad, Mac, and Apple TV.",
+      "img": "https://www.apple.com/v/services/home/x/images/overview/tiles/tile_arcade__c8kgf27ym0qq_large.jpg"
+    },
+    {
+      "Id": "AppleFitness",
+      "Title": "Apple Fitness+",
+      "Brief": "Fitness for everyone, anywhere.",
+      "Description": "Work out or meditate with world‑class trainers. Track your progress with Apple Watch or iPhone and enjoy new sessions added regularly.",
+      "img": "https://www.apple.com/v/services/home/x/images/overview/tiles/tile_fitness__c46gxx8sop2u_large.jpg"
+    }
+  ]
+}
+

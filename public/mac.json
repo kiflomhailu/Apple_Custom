@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "Id": "MacBookPro",
+      "Title": "MacBook Pro",
+      "Brief": "Power. Moves.",
+      "StartPrice": "$1999",
+      "PriceRange": "From $166.58/mo. for 12 mo.",
+      "Description": "Blazing-fast performance with M-series chips, stunning Liquid Retina display options, and up to 22 hours of battery life."
+    },
+    {
+      "Id": "MacBookAir",
+      "Title": "MacBook Air",
+      "Brief": "Don’t take it lightly.",
+      "StartPrice": "$999",
+      "PriceRange": "From $83.25/mo. for 12 mo.",
+      "Description": "Silent, fanless design with all-day battery life — perfect for portable productivity and creativity."
+    },
+    {
+      "Id": "IMac",
+      "Title": "iMac",
+      "Brief": "Pretty. Freaking powerful.",
+      "StartPrice": "$1299",
+      "PriceRange": "From $108.25/mo. for 12 mo.",
+      "Description": "A breathtaking 4.5K Retina display, superfast performance, and striking colors — all in one."
+    }
+  ]
+}
+

@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "Id": "WatchUltra",
+      "Title": "Apple Watch Ultra",
+      "Brief": "Adventure awaits.",
+      "StartPrice": "$799",
+      "PriceRange": "From $33.29/mo. for 24 mo.",
+      "Description": "A rugged titanium case, precision dual-frequency GPS, and up to 36 hours of battery life."
+    },
+    {
+      "Id": "WatchSeries",
+      "Title": "Apple Watch Series 9",
+      "Brief": "Smarter. Brighter. Mightier.",
+      "StartPrice": "$399",
+      "PriceRange": "From $16.62/mo. for 24 mo.",
+      "Description": "The S9 SiP unlocks a magical new double tap gesture and brings a brighter display to your wrist."
+    },
+    {
+      "Id": "WatchSE",
+      "Title": "Apple Watch SE",
+      "Brief": "Essential fitness and health features.",
+      "StartPrice": "$249",
+      "PriceRange": "From $10.37/mo. for 24 mo.",
+      "Description": "Crash Detection, Emergency SOS, and activity tracking make it a perfect first Apple Watch."
+    }
+  ]
+}
+

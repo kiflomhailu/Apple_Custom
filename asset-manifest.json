@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Apple-replica/static/css/main.712d7486.css",
-    "main.js": "/Apple-replica/static/js/main.7a8b2c52.js",
+    "main.js": "/Apple-replica/static/js/main.f59acd8b.js",
     "static/media/mac-laptop.jpg": "/Apple-replica/static/media/mac-laptop.5a41ed84ada3ff89bc7c.jpg",
     "static/media/new-ipad.jpg": "/Apple-replica/static/media/new-ipad.89e5633372a6f0cfab6b.jpg",
     "static/media/iphone11-pro-bg.jpg": "/Apple-replica/static/media/iphone11-pro-bg.bf8cd2105e053ac6974b.jpg",
@@ -29,10 +29,10 @@
     "static/media/today-at-apple.svg": "/Apple-replica/static/media/today-at-apple.45c3b1b0071d295310c1d3fd9c8c6a51.svg",
     "static/media/get-support.svg": "/Apple-replica/static/media/get-support.f83af4fd99a9444ab8669261d195d609.svg",
     "main.712d7486.css.map": "/Apple-replica/static/css/main.712d7486.css.map",
-    "main.7a8b2c52.js.map": "/Apple-replica/static/js/main.7a8b2c52.js.map"
+    "main.f59acd8b.js.map": "/Apple-replica/static/js/main.f59acd8b.js.map"
   },
   "entrypoints": [
     "static/css/main.712d7486.css",
-    "static/js/main.7a8b2c52.js"
+    "static/js/main.f59acd8b.js"
   ]
 }

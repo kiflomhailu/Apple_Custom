@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#0ea5e9" rx="32" />
+  <g fill="#f8fafc">
+    <circle cx="200" cy="170" r="70" opacity="0.2" />
+    <path d="M180 150h120v80h-70l-30 30v-30h-20z" opacity="0.9" />
+  </g>
+  <text x="50%" y="75%" fill="#f8fafc" font-family="'SF Pro Display', Arial, sans-serif" font-size="48" font-weight="600" text-anchor="middle">
+    Get Support
+  </text>
+</svg>

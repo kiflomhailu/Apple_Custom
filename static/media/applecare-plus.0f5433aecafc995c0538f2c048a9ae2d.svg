@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#ef4444" rx="32" />
+  <path d="M300 120c-44 0-80 36-80 80 0 44 32 90 80 120 48-30 80-76 80-120 0-44-36-80-80-80zm0 110c-17 0-30-13-30-30s13-30 30-30 30 13 30 30-13 30-30 30z" fill="#fee2e2" />
+  <text x="50%" y="80%" fill="#fff" font-family="'SF Pro Display', Arial, sans-serif" font-size="46" font-weight="600" text-anchor="middle">
+    AppleCare+
+  </text>
+</svg>

@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "Id": "iPadPro",
+      "Title": "iPad Pro",
+      "Brief": "The ultimate iPad experience.",
+      "StartPrice": "$799",
+      "PriceRange": "From $66.58/mo. for 12 mo.",
+      "Description": "Powered by the M2 chip with an immersive Liquid Retina XDR display and Apple Pencil hover."
+    },
+    {
+      "Id": "iPadAir",
+      "Title": "iPad Air",
+      "Brief": "Serious performance in a thin design.",
+      "StartPrice": "$599",
+      "PriceRange": "From $49.91/mo. for 12 mo.",
+      "Description": "Now with the M2 chip, brilliant 11-inch display, and support for Apple Pencil Pro."
+    },
+    {
+      "Id": "iPad",
+      "Title": "iPad",
+      "Brief": "Lovable. Drawable. Magical.",
+      "StartPrice": "$449",
+      "PriceRange": "From $37.41/mo. for 12 mo.",
+      "Description": "A redesigned 10.9-inch Liquid Retina display and fun colors make iPad more capable than ever."
+    }
+  ]
+}
+

@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "Id": "AppleTV4K",
+      "Title": "Apple TV 4K",
+      "Brief": "The Apple experience. Cinematic in every sense.",
+      "StartPrice": "$129",
+      "PriceRange": "From $10.75/mo. for 12 mo.",
+      "Description": "Enjoy Dolby Vision, HDR10+, and Dolby Atmos sound. SharePlay, Apple Arcade, Fitness+, and the Apple TV app bring unbeatable entertainment to your living room.",
+      "img": "https://www.apple.com/v/apple-tv-4k/b/images/overview/apple_tv_4k_remote__cs5t6zfxky26_large.png"
+    },
+    {
+      "Id": "HomePod",
+      "Title": "HomePod",
+      "Brief": "Immersive high‑fidelity audio.",
+      "StartPrice": "$299",
+      "PriceRange": "From $24.91/mo. for 12 mo.",
+      "Description": "Fill any room with rich, spatial audio. Control your smart home with Siri and create stereo pairs or multiroom sound that works seamlessly with Apple TV 4K.",
+      "img": "https://www.apple.com/v/homepod-2nd-generation/b/images/overview/compare_homepod__b42bkc5u4y0i_large.png"
+    },
+    {
+      "Id": "HomePodMini",
+      "Title": "HomePod mini",
+      "Brief": "Surprising sound for its size.",
+      "StartPrice": "$99",
+      "PriceRange": "From $8.25/mo. for 12 mo.",
+      "Description": "Place HomePod mini around your home for rich 360‑degree audio, Intercom announcements, and effortless smart home control.",
+      "img": "https://www.apple.com/v/homepod-mini/b/images/overview/hero_homepod_mini__eo1ikzz07pke_large.jpg"
+    }
+  ]
+}
+

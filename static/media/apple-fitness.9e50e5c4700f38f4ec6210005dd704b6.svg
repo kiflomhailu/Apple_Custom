@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="fitnessGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#fitnessGrad)" rx="32" />
+  <circle cx="220" cy="200" r="70" fill="none" stroke="#fff" stroke-width="20" />
+  <path d="M340 140h100c22 0 40 18 40 40s-18 40-40 40h-80v40h40c22 0 40 18 40 40s-18 40-40 40h-100v-80h80v-40h-40c-22 0-40-18-40-40s18-40 40-40z" fill="#0f172a" opacity="0.25" />
+  <text x="50%" y="82%" fill="#0f172a" font-family="'SF Pro Display', Arial, sans-serif" font-size="44" font-weight="700" text-anchor="middle" opacity="0.8">
+    Apple Fitness+
+  </text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="musicGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#9333ea" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#musicGrad)" rx="32" />
+  <path d="M270 130v120c0 28-22 50-50 50s-50-22-50-50 22-50 50-50c6 0 12 1 18 3v-104l152-32v133c0 28-22 50-50 50s-50-22-50-50 22-50 50-50c6 0 12 1 18 3v-72l-138 29z" fill="#fff" />
+  <text x="50%" y="88%" fill="#fff" font-family="'SF Pro Display', Arial, sans-serif" font-size="44" font-weight="600" text-anchor="middle">
+    Apple Music
+  </text>
+</svg>

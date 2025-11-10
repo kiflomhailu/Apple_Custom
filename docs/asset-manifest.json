@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Apple_Custom/static/css/main.7b67c159.css",
+    "main.js": "/Apple_Custom/static/js/main.954b34d5.js",
+    "static/media/mac-laptop.jpg": "/Apple_Custom/static/media/mac-laptop.5a41ed84ada3ff89bc7c.jpg",
+    "static/media/new-ipad.jpg": "/Apple_Custom/static/media/new-ipad.89e5633372a6f0cfab6b.jpg",
+    "static/media/iphone11-pro-bg.jpg": "/Apple_Custom/static/media/iphone11-pro-bg.bf8cd2105e053ac6974b.jpg",
+    "static/media/iphone11-bg.jpg": "/Apple_Custom/static/media/iphone11-bg.c384672b76bc410be6fe.jpg",
+    "static/media/iphone11-colored.jpg": "/Apple_Custom/static/media/iphone11-colored.fe52aed245a591e8cc94.jpg",
+    "static/media/macbookair-new.jpg": "/Apple_Custom/static/media/macbookair-new.f94e24a8383395b7d3e2.jpg",
+    "static/media/watch-series-5.jpg": "/Apple_Custom/static/media/watch-series-5.0e3dade246613ea1c2f5.jpg",
+    "static/media/spyder.jpg": "/Apple_Custom/static/media/spyder.c91b56342f94fc6e6e1f.jpg",
+    "static/media/actors.jpg": "/Apple_Custom/static/media/actors.10f4f8d078a989ccb9bc.jpg",
+    "static/media/macbook-pro.jpg": "/Apple_Custom/static/media/macbook-pro.2e02c727b335f7c78b2c.jpg",
+    "static/media/ipodPronew.jpg": "/Apple_Custom/static/media/ipodPronew.03e7d6e41eae3bca23ad.jpg",
+    "static/media/watch-lg.jpg": "/Apple_Custom/static/media/watch-lg.9f6235fb68cbcff100d6.jpg",
+    "static/media/watch.jpg": "/Apple_Custom/static/media/watch.8c1f1e9707b29ce07494.jpg",
+    "static/media/apple-card-monthly.jpg": "/Apple_Custom/static/media/apple-card-monthly.a77ef6c49a97f9b1826e.jpg",
+    "static/media/macbookair-new-sm.jpg": "/Apple_Custom/static/media/macbookair-new-sm.0a6fe6cc80d2c1257b36.jpg",
+    "static/media/ipodPronew-sm.jpg": "/Apple_Custom/static/media/ipodPronew-sm.fc51d11e103f25e4b84b.jpg",
+    "index.html": "/Apple_Custom/index.html",
+    "static/media/apple-fitness.svg": "/Apple_Custom/static/media/apple-fitness.b480c4514c25037aeb409f99139e6bb7.svg",
+    "static/media/apple-music.svg": "/Apple_Custom/static/media/apple-music.c3f93ae59def1cc6df926047bb528bf3.svg",
+    "static/media/apple-arcade.svg": "/Apple_Custom/static/media/apple-arcade.f7a46468d15750bffc984305cc1a6819.svg",
+    "static/media/homepod.svg": "/Apple_Custom/static/media/homepod.2990be057e96975dcc905667e4a0487a.svg",
+    "static/media/homepod-mini.svg": "/Apple_Custom/static/media/homepod-mini.857ea4b5b3f9003fce3cd964465673af.svg",
+    "static/media/apple-tv-4k.svg": "/Apple_Custom/static/media/apple-tv-4k.d1e9eeab46271336411156b7de546535.svg",
+    "static/media/applecare-plus.svg": "/Apple_Custom/static/media/applecare-plus.1bb6d7f7e75586060542f88f01395c2c.svg",
+    "static/media/today-at-apple.svg": "/Apple_Custom/static/media/today-at-apple.9ad26dba6da1cbf22393dcd0b6d4412d.svg",
+    "static/media/get-support.svg": "/Apple_Custom/static/media/get-support.4ff5709b0edf42fe0825ef9ffa827e82.svg",
+    "main.7b67c159.css.map": "/Apple_Custom/static/css/main.7b67c159.css.map",
+    "main.954b34d5.js.map": "/Apple_Custom/static/js/main.954b34d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b67c159.css",
+    "static/js/main.954b34d5.js"
+  ]
+}

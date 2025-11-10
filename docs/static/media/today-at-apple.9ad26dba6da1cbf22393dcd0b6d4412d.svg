@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#22c55e" rx="32" />
+  <circle cx="300" cy="180" r="80" fill="#15803d" opacity="0.35" />
+  <rect x="190" y="220" width="220" height="90" rx="18" fill="#15803d" opacity="0.6" />
+  <text x="50%" y="57%" fill="#ecfdf5" font-family="'SF Pro Display', Arial, sans-serif" font-size="46" font-weight="600" text-anchor="middle">
+    Today at Apple
+  </text>
+</svg>

@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "Id": "iPhone14Pro",
+      "Title": "iPhone 14 Pro",
+      "Brief": "Pro. Beyond.",
+      "StartPrice": "$999",
+      "PriceRange": "From $41.62/mo. before trade-in.",
+      "Description": "Dynamic Island, Always-On display, and the groundbreaking A16 Bionic chip. Capture stunning detail with a 48MP Main camera."
+    },
+    {
+      "Id": "iPhone14",
+      "Title": "iPhone 14",
+      "Brief": "A total powerhouse.",
+      "StartPrice": "$799",
+      "PriceRange": "From $33.29/mo. before trade-in.",
+      "Description": "Big and bigger sizes, impressive battery life, and safety features like Crash Detection and Emergency SOS via satellite."
+    },
+    {
+      "Id": "iPhoneSE",
+      "Title": "iPhone SE",
+      "Brief": "Serious power. Serious value.",
+      "StartPrice": "$429",
+      "PriceRange": "From $17.87/mo. before trade-in.",
+      "Description": "The A15 Bionic chip, 5G, and beloved Home button design. An affordable iPhone that’s built to last."
+    }
+  ]
+}
+

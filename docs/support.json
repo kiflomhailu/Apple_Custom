@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "Id": "GetSupport",
+      "Title": "Get Support",
+      "Brief": "Chat, call, or schedule repairs.",
+      "Description": "Sign in with your Apple ID to view warranties, start a repair request, or get one‑on‑one help from Apple Experts.",
+      "img": "https://www.apple.com/v/support/home/images/overview/hero_get_help__ewb9z5g09d6u_large.jpg"
+    },
+    {
+      "Id": "AppleCarePlus",
+      "Title": "AppleCare+",
+      "Brief": "Extended coverage and priority access.",
+      "Description": "Protect your devices against accidental damage and hardware issues, with 24/7 priority access to technical support.",
+      "img": "https://www.apple.com/v/support/home/images/overview/hero_applecare__f2ww3iw3ybuu_large.jpg"
+    },
+    {
+      "Id": "TodayAtApple",
+      "Title": "Today at Apple",
+      "Brief": "Free creative sessions every day.",
+      "Description": "Explore photography, video, music, coding, and more with hands‑on sessions led by Apple Creatives in-store or online.",
+      "img": "https://www.apple.com/v/support/home/images/overview/hero_today_at_apple__c02yp3r6a42u_large.jpg"
+    }
+  ]
+}
+
